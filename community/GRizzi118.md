@@ -35,18 +35,6 @@ Atuo na área de análise e solução de problemas, com interesse em tecnologia,
 
 ---
 
-## Estatísticas no GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GRizzi118&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GRizzi118&layout=compact&langs_count=7&theme=dark&locale=pt-br)
-
-</div>
-
----
-
 ## Conecte-se comigo
 
 Estou sempre aberto a trocar experiências sobre desenvolvimento de sistemas, forense digital, inteligência de dados e aplicações de tecnologia na segurança pública.
